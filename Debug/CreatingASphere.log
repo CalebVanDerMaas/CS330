@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CreatingASphere.vcxproj, Module5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  source.cpp
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(371,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(400,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(401,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(408,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(409,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(416,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(417,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(424,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(425,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(433,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(434,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(591,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(592,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(596,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(597,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(598,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(599,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\source.cpp(608,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CreatingASphere.vcxproj -> C:\Users\kaflo\Downloads\CreatingASphere 2\CreatingASphere\Debug\Module6.exe
